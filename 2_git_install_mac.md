@@ -6,11 +6,16 @@
 
 Git とは、ソースコードを管理するためのツールです。誰がいつどのソースコードを管理しているかを知るのに役立ちます。
 
+<br>
+<br>
+<br>
+
 ## 0. 必要なもの
 
 - ターミナル
 - Homebrew
 - GitHub アカウント
+  <br>
   <br>
   <br>
 
@@ -32,6 +37,7 @@ export PATH="/opt/homebrew/bin:$PATH"
 4. インストールが完了したら、`git --v`コマンドを実行してバージョン情報が表示されれば、インストール成功です。
    <br>
    <br>
+   <br>
 
 ## 2. PC に Git アカウントを作成する
 
@@ -39,6 +45,7 @@ export PATH="/opt/homebrew/bin:$PATH"
    <br>
 
    ![GitHub アカウント作成](./image/github_signup.png)
+   <br>
    <br>
    <br>
 
@@ -53,6 +60,7 @@ git config --global user.email "メールアドレス"
 ```
 
 3. これで、Git のアカウント情報が設定され、Git を使うことができるようになりました！
+   <br>
    <br>
    <br>
 

@@ -12,12 +12,14 @@
 
 <br>
 <br>
+<br>
 
 ## 0. 必要なもの
 
 - ターミナル
 - [Homebrew] (https://brew.sh/ja/)
 
+<br>
 <br>
 <br>
 
@@ -36,6 +38,7 @@ curl https://get.volta.sh | bash
 
 3. これで、インストールが完了です。
 
+<br>
 <br>
 <br>
 
@@ -65,6 +68,7 @@ volta install npm
 4. これで、インストールが完了です。
    <br>
    <br>
+   <br>
 
 ## 3. インストール済みの Node.js の確認
 
@@ -83,10 +87,12 @@ npm -v
 3. これで、インストール済みの Node.js と npm のバージョンを確認できます。
    <br>
    <br>
+   <br>
 
 ## 参考 URL
 
 - [Node.js バージョン管理ツール『Volta』を使ってみる](https://qiita.com/nakashun1129/items/47c09ccbbba73c4ef8c4)
+  <br>
   <br>
   <br>
 

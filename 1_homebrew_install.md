@@ -6,10 +6,12 @@
 Hmebrew とは、MacOS のツールを管理するためのツールです。これは後述する Node.js などのツールをインストールするのに使用します。
 <br>
 <br>
+<br>
 
 ## 0 必要なもの
 
 - ターミナル
+  <br>
   <br>
   <br>
 
@@ -53,6 +55,7 @@ Press RETURN/ENTER to continue or any other key to abort:
 6. これで、インストールが完了です。
    <br>
    <br>
+   <br>
 
 ## 2 環境変数のパスを通す
 
@@ -88,6 +91,7 @@ brew --version
 
 ![環境変数のパスを通す](./image/brew_version.png)
 
+<br>
 <br>
 <br>
 
